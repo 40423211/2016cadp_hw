@@ -1,2 +1,5 @@
 # 2016cadp_hw
-個人作業倉儲
+
+簡報: https://40423201.github.io/2016fallcadp_bg03/40423211
+
+網誌: https://40423201.github.io/2016fallcadp_bg03/40423211/blog/index.html
